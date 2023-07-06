@@ -1,0 +1,5 @@
+fileb
+*.ini
+passwords/*
+.env
+node_modules
