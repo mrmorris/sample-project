@@ -1,1 +1,3 @@
-# The Stable for the Animals
+# Stable
+
+Animals
