@@ -74,7 +74,7 @@ jobs:
       - name: Download a Build Artifact
         uses: actions/download-artifact@v2.1.1
         with:
-          name: artifact
+          name: build
           path: ./_site
 
       - name: Upload GitHub Pages artifact
